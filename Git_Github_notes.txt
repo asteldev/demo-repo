@@ -1,0 +1,22 @@
+Git and GitHub are closely related tools used in software development, 
+but they serve different roles in managing and collaborating on source code.
+
+  Git: A distributed version control system used to track and manage code changes locally.
+GitHub: A web-based platform that hosts Git repositories and provides collaboration features.
+
+    Git
+Git is a distributed version control system that tracks 
+and manages changes in source code efficiently.
+
+  Designed for speed, data integrity, and reliable version tracking.
+  Supports distributed, non-linear workflows.
+  Enables efficient collaboration for teams and individuals.
+
+    GitHub
+GitHub is a web-based platform that hosts Git repositories 
+and adds collaboration features for managing code online.
+
+  Adds collaboration features such as pull requests and issue tracking.
+  Provides code hosting, review, and team collaboration tools.
+
+  
